@@ -38,8 +38,7 @@ Image of Part 2.1 circuit:
 ![IMG_8362](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/79a6401b-f1c9-4485-b8b5-b999d448749f)
 
 Part 2.2-Parallel circuit
-1. Start with the circuit from Part 2.1
-2. Remove the 5.5 kΩ resistor from the circuit
+1. Use the same circuit from Part 2.1 - step 5
 
 Image of Part 2.2 circuit:
 ![IMG_8360](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/b5765ccc-0f97-47e6-afd2-e8aace88f390)
