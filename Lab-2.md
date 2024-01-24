@@ -1,6 +1,6 @@
-# Lab 1 - Well-Equipped
+# Lab 2 - Basic Circuits
 
-# By: Joe Dvorak
+# By: Noah Lane & Lily Schlag
 # Summary
 Lab goal; summary of work performed; summary of outcome
 Lab 1 will be somewhat different since this is an introduction to the equipment.
