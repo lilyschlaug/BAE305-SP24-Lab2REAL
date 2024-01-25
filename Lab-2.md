@@ -50,7 +50,7 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 
 Digital Multimeter
 
-Global Specialties 100W Triple Output Swithcing DC Power Supply
+Global Specialties 100W Triple Output Switching DC Power Supply
 
 # Test Procedures
 How did you test the system to get your results
