@@ -25,7 +25,8 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 1. Place the 1kΩ, 2.2 kΩ and 5.1 kΩ in series on the solder breadboard
 2. Solder the resistors into place on the back of the solder breadboard
 3. Clip exposed excess leads from the back of the solder breadboard
-**SChematic of part 1**
+
+**Schematic of part 1**
 **Image of Part 1 circuit:**
 
 ![IMG_8359](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/12556cc0-ec97-4a10-a547-0fbee14bf457)
@@ -35,6 +36,7 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 1. Using the 2.2 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, and 220 kΩ resistors construct the parallel circuit with the 4.7 kΩ, 6.8 kΩ, and 15 kΩ resistors in series and the 2.2 kΩ and 220 kΩ resistors in parallel 
 2. Place the power wire in the same row as the 4.7 kΩ resistor and the ground wire in the same row as the 
 3. For step 5, remove the 5.5 kΩ resistor
+
 **Schematic of part 2.1**
 **Image of Part 2.1 circuit:**
 ![IMG_8362](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/79a6401b-f1c9-4485-b8b5-b999d448749f)
@@ -70,6 +72,8 @@ How did you test the system to get your results
 
 **Add descriptions**
 
+Below is the table of labeled resistor values compared to the measured resistor value that was taken at the time of the lab. 
+
 **Part 1 - Series Circuit**
 | Labeled resistor value(kΩ) | Measured resistor value(kΩ) |
 | ---------------------------| ----------------------------|
@@ -77,6 +81,8 @@ How did you test the system to get your results
 | R2(2.2)  | 2.169  |
 | R3(5.1)  | 5.013 |
 |Sum|8.18|
+
+Below is the measured voltage drop across each of the resistors. 
 
 | Resistor   | Voltage Drop (V) |
 | -----------| -----------------|
@@ -87,9 +93,13 @@ How did you test the system to get your results
 
 **Part 2.1**
 
+Below is the verification that the DCPS provided the same measured voltage as it displayed.  
+
 | Displayed Power (V) | Measured Power (V) |
 | --------------------| -------------------|
 |12|12|
+
+Below is the measured resistor value that was taken of each resistor at the time of building the circuit. 
 
 | Labeled resistor value(kΩ) | Measured resistor value(kΩ) |
 | ---------------------------| ----------------------------|
@@ -99,9 +109,13 @@ How did you test the system to get your results
 | R4(220)  | 219.3  |
 | R5(2.2)  | 2.188  |
 
+Below is the voltage drop across Rl/R5 and the current through Rl/R5. 
+
 | Resistor | Voltage drop (V) | Current(mA) |
 | ---------| ----------------|---------|
 |R5|3.57|1.66|
+
+Below is a comparison of the measured current and calculated current after removing R5 from the circuit. 
 
 | Current   | Measured Current (mA)| Calculated Currents (mA)|
 | ----------| ---------------------|-------------------------|
