@@ -114,7 +114,7 @@ Below is the voltage drop across Rl/R5 and the current through Rl/R5.
 | ---------| ----------------|---------|
 |R5|3.57|1.66|
 
-Below is a comparison of the measured current and calculated current after removing R5 from the circuit. 
+Below is a comparison of the measured current and calculated current after removing R5 from the circuit. It is likely that a mistake was made in the calculated currents due to the vast difference from the measured. 
 
 | Current   | Measured Current (mA)| Calculated Currents (mA)|
 | ----------| ---------------------|-------------------------|
@@ -124,7 +124,7 @@ Below is a comparison of the measured current and calculated current after remov
 
 **Part 2.2**
 
-Below is the measured magnitude and calculated values of voltage drop across resistors R1, R2, R3, & R4. At this point, R5 is still removed from the circuit. 
+Below is the measured magnitude and calculated values of voltage drop across resistors R1, R2, R3, & R4. At this point, R5 is still removed from the circuit. It is likely that a mistake was made in the calculated voltage due to the vast difference from the measured. 
 
 | Voltage | Measured Magnitude (V) | Calculated Voltage (V)|
 | --------| -----------------------|-----------------------|
