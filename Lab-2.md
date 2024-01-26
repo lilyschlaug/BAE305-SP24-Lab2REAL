@@ -142,8 +142,8 @@ Below are the calculations for the components based on Thevenin's Theorem.
 | Vth| 1.203  |
 | Rth  | 2.66  |
 | I n | 6.142 |
-|Vl|10.005|
-|Il||
+|Vl| 10.005 |
+|Il| 3.76 |
 
 # Conclusion 
 
