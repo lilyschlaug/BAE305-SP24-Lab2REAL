@@ -132,9 +132,11 @@ Below is the measured magnitude and calculated values of voltage drop across res
 | V1| 2.286  | 2.4 |
 | V2  | 3.064  | 3.13|
 | V3  | 6.65 | 0.9 |
-|V4,V5|9.72||
+|V4,V5|9.72| 4.7 |
 
 **Part 2.3**
+
+Below are the calculations for the components based on Thevenin's Theorem. 
 
 | Thevenin Component   | Calculated |
 | ---------------------| -----------|
