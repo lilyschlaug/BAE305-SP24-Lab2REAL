@@ -125,11 +125,13 @@ Below is a comparison of the measured current and calculated current after remov
 
 **Part 2.2**
 
+Below is the measured magnitude and calculated values of voltage drop across resistors R1, R2, R3, & R4. At this point, R5 is still removed from the circuit. 
+
 | Voltage | Measured Magnitude (V) | Calculated Voltage (V)|
 | --------| -----------------------|-----------------------|
-| V1| 2.286  | |
-| V2  | 3.064  ||
-| V3  | 6.65 ||
+| V1| 2.286  | 2.4 |
+| V2  | 3.064  | 3.13|
+| V3  | 6.65 | 0.9 |
 |V4,V5|9.72||
 
 **Part 2.3**
