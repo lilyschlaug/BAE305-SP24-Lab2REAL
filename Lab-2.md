@@ -119,9 +119,9 @@ Below is a comparison of the measured current and calculated current after remov
 
 | Current   | Measured Current (mA)| Calculated Currents (mA)|
 | ----------| ---------------------|-------------------------|
-| I1(R1)| 0.51  ||
-| I2(R2)  | 0.46  ||
-| I3(R4)  | 0.06 ||
+| I1(R1)| 0.51  | 2.5 |
+| I2(R2)  | 0.46  | 0.23 |
+| I3(R4)  | 0.06 | 2.27 |
 
 **Part 2.2**
 
