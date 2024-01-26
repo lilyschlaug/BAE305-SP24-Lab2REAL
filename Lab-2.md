@@ -2,7 +2,8 @@
 
 # By: Noah Lane & Lily Schlaug
 # Summary
-Lab goal; summary of work performed; summary of outcome
+Lab goal, summary of work performed, & summary of outcome: 
+
 Lab 2's focus is to develop a better understanding of the three major laws of basic circuit analysis: Kirchhoff's voltage Law, Kirchhoff's current law and Thevenin's theorem. Lab 2 began with an introduction to proper soldering and circuit building techniques by making and soldering a series circuit onto a solder breadboard and then measuring the voltage drop across each of the components in the circuit. After summing the voltage drops across the resistors the value was equivalent to that of the voltage supplied by the DC power supply. For the second part of the lab, two circuits were constructed on a solderless breadboard that consisted of five resistors with three in series and two in parallel for Part 2.1 and four resistors, three in series and one in parallel, for Part 2.2 and 2.3. **Outcome of measured vs calculated data for 2.1,2.2,2.3.**
 
 # Materials
@@ -149,8 +150,13 @@ Below are the calculations for the components based on Thevenin's Theorem.
 This lab focused on measuring current, voltage and resistance in a variety of circuit arrangements. This allowed us to see how circuits change based on the arrangement of elements. Practicing using the DMM to measure values provided a comparison to the values that are able to be calculated with Ohm's Law. Finally, the circuit was analyzed based on Thevenin circuit analysis principles. 
 
 # Discussion
+
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
+
 Discussion Question 1: How much power does each resistor dissipate? Each branch? Total power? Is the power in equal to the power out? 
-**ans**
+
+Based on the equation Power=Current*Voltage, the amount of power can be calculated for a number of scenarios. The power each resistor dissipates is as follows (units are in mW): P1= 1.17, P2= 1.41, P3= 1.9 and P4= 0.399. Each branch dissipates the sum of the power dissipated in each resistor. So, P1=1.17, P2= 3.31, and P3=0.399. Summing all the values, the total power is 4.88. So, the power in is greater than the power out. 
+
 Discussion Question 2: Does ITH = IL? 
-**ans**
+
+Yes, according Thevenin's Theorem, these values should be equal to one another. If both of these values were measured and calculated correctly, they should equal one another. 
