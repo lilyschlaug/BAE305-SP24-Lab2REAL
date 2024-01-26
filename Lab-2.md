@@ -2,9 +2,8 @@
 
 # By: Noah Lane & Lily Schlaug
 # Summary
-Lab goal, summary of work performed, & summary of outcome: 
 
-Lab 2's focus is to develop a better understanding of the three major laws of basic circuit analysis: Kirchhoff's voltage Law, Kirchhoff's current law and Thevenin's theorem. Lab 2 began with an introduction to proper soldering and circuit building techniques by making and soldering a series circuit onto a solder breadboard and then measuring the voltage drop across each of the components in the circuit. After summing the voltage drops across the resistors the value was equivalent to that of the voltage supplied by the DC power supply. For the second part of the lab, two circuits were constructed on a solderless breadboard that consisted of five resistors with three in series and two in parallel for Part 2.1 and four resistors, three in series and one in parallel, for Part 2.2 and 2.3. **Outcome of measured vs calculated data for 2.1,2.2,2.3.**
+Lab 2's focus is to develop a better understanding of the three major laws of basic circuit analysis: Kirchhoff's voltage Law, Kirchhoff's current law and Thevenin's theorem. Lab 2 began with an introduction to proper soldering and circuit building techniques by making and soldering a series circuit onto a solder breadboard and then measuring the voltage drop across each of the components in the circuit. After summing the voltage drops across the resistors the value was equivalent to that of the voltage supplied by the DC power supply. For the second part of the lab, two circuits were constructed, a five resistor circuit with three in series and two in parallel, and a four resistor circuit with three in series and one in parallel. These circuits would be used to verify the accuracy of KCL, KVL, and Thevenin's Theorem equations when compared to lab-measured data. It was distinguished that the equations matched the collected data across lower value resistors and began to separate from the data while the current across the resistors had the opposite effect, registering the greatest difference in lower value resistors and similar across ones with higher values.
 
 # Materials
 
@@ -19,15 +18,12 @@ Wires
 1kΩ, 2x 2.2 kΩ, 4.7 kΩ, 5.1 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ Resistors
 
 # Assembly Procedures
-Provide basic summary of steps performed in lab (Do not copy and paste from lab assignment.) The important part here is to provide detail that you had to develop in the lab which will be more important in later labs.
-You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
 
 **Part 1-Series circuit**
 1. Place the 1kΩ, 2.2 kΩ and 5.1 kΩ in series on the solder breadboard
 2. Solder the resistors into place on the back of the solder breadboard
 3. Clip exposed excess leads from the back of the solder breadboard
 
-**Schematic of part 1**
 **Image of Part 1 circuit:**
 
 ![IMG_8359](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/12556cc0-ec97-4a10-a547-0fbee14bf457)
@@ -38,16 +34,14 @@ You must include Schematics, Engineering Drawings, and Programming if appropriat
 2. Place the power wire in the same row as the 4.7 kΩ resistor and the ground wire in the same row as the 
 3. For step 5, remove the 5.5 kΩ resistor
 
-**Schematic of part 2.1**
 **Image of Part 2.1 circuit:**
 ![IMG_8362](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/79a6401b-f1c9-4485-b8b5-b999d448749f)
 
 **Part 2.2 and 2.3-Parallel circuit**
-1. Use the same circuit from Part 2.1 - step 5
-**Schematic of part 2.2 and 2.3**
+1. Use the same circuit from Part 2.1: Step 5
+
 **Image of Part 2.2 circuit:**
 ![IMG_8360](https://github.com/npla225/BAE305-SP24-Lab2/assets/156371043/b5765ccc-0f97-47e6-afd2-e8aace88f390)
-
 
 # Test Equipment
 
@@ -56,18 +50,24 @@ Digital Multimeter
 Global Specialties 100W Triple Output Switching DC Power Supply
 
 # Test Procedures
-How did you test the system to get your results
+
 **Part 1-Series Circuit**
-**1. voltage in parallel**
+1. Using the DMM find the measured resistance of all three resistors and verify them with their labeled values
+2. Set the DC power supply to 10V and 0.250A and connect the positive and negative leads to their corresponding soldered wires on the breadboard
+3.Using the DMM probes measure the voltage drop across the resistors in parallel on the soldered side of the circuit board
 
 **Part 2.1-KCL**
-**1. Current in series with resistor**
+1. Using the DMM find the measured resistance of all five resistors and verify them with their labeled values
+2. Connect the DC power supply to the circuit and run the same voltage and current though the circuit as in Part 1
+3. Measure the voltage drop across R5 using the DMM in parallel with the resistor
+4. Measure the current through R5 by placing the DMM in series with the resistor
+5. After removing R5, measure the currents across R1,R2, and R3 individually and record the results
 
 **Part 2.2-KVL**
-**1. voltage in parallel**
+1. Using the same circuit from Part 2.1: Step 5, measure and record the voltage drop across R1,R2,R3,R4 separately with the DMM in parallel with the resistor and record the results
 
 **Part 2.3-Thevenin**
-**1. equivant resistor/voltage**
+1. (See Part 2.1: Step 1)
 
 # Test Results
 
