@@ -70,8 +70,6 @@ How did you test the system to get your results
 
 # Test Results
 
-**Add descriptions**
-
 Below is the table of labeled resistor values compared to the measured resistor value that was taken at the time of the lab. 
 
 **Part 1 - Series Circuit**
@@ -147,7 +145,9 @@ Below are the calculations for the components based on Thevenin's Theorem.
 |Il||
 
 # Conclusion 
-**Add conclusion**
+
+This lab focused on measuring current, voltage and resistance in a variety of circuit arrangements. This allowed us to see how circuits change based on the arrangement of elements. Practicing using the DMM to measure values provided a comparison to the values that are able to be calculated with Ohm's Law. Finally, the circuit was analyzed based on Thevenin circuit analysis principles. 
+
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
 Discussion Question 1: How much power does each resistor dissipate? Each branch? Total power? Is the power in equal to the power out? 
